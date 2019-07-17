@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringPro2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringPro2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringPro2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringPro2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
